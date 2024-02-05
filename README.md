@@ -19,6 +19,8 @@
 
 💡[Ano Bissexto](https://pt.wikipedia.org/wiki/Ano_bissexto)
 
+<img src="./images/eu/amanda.jpeg"/>
+
 ## Origem
 
 [Brasil](https://pt.wikipedia.org/wiki/Brasil) > [Amazônia](https://pt.m.wikipedia.org/wiki/Amaz%C3%B4nia) > [Região Norte](https://pt.m.wikipedia.org/wiki/Regi%C3%A3o_Norte_do_Brasil) > [Estado do Pará](https://pt.m.wikipedia.org/wiki/Par%C3%A1) > [Região Metropolitana de Belém](https://pt.m.wikipedia.org/wiki/Regi%C3%A3o_Metropolitana_de_Bel%C3%A9m) > [Município de Benevides](https://pt.m.wikipedia.org/wiki/Benevides) > [Benfica](https://www.instagram.com/benfica_pa)
