@@ -116,13 +116,21 @@ Fiz um curso de informática básica na [Escola Universo Informática](https://w
 
 Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amiga [Maysa Alves](https://www.linkedin.com/in/maysaalves) me levaram em uma escola que possuía um laboratório de informática top de linha, elas foram digitar um trabalho no Word e estavam com um disquete.
 
-A Éula e a Maysa:
+A Éula e a Maysa na época:
 
-<img src="./images/eula-e-maysa/eula-e-maysa.jpg" style="width:300px;"/>
+<img src="./images/eula-e-maysa/eula-e-maysa.jpeg" style="width:300px;"/>
 
 Como é um disquete:
 
 <img src="./images/eula-e-maysa/disquete.png" style="width:300px;"/>
+
+Hoje a Éula é Assistente Social em um CRAS:
+
+<img src="./images/eula-e-maysa/eula.png" style="width:300px;"/>
+
+A Maysa é formada em Engenharia de Computação e atua como Engenheira de Software, mora no Canadá.
+
+<img src="./images/eula-e-maysa/maysa.png" style="width:300px;"/>
 
 💡[Word](https://pt.wikipedia.org/wiki/Microsoft_Word)
 
