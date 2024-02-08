@@ -90,10 +90,12 @@ Outro celular dela:
 
 Ele me levou para passar um dia no trabalho dele onde exercia o papel de almoxarife, basicamente joguei Pinball, Paciência e fiz alguns desenhos no Paint.
 
-Jogo 3d Pinball Space Cadet:
+Jogo 3D Pinball Space Cadet:
+
 <img src="./images/garagem/pinball.png" style="width:300px;"/>
 
 Jogo Paciência:
+
 <img src="./images/garagem/paciencia.jpg" style="width:300px;"/>
 
 Lembro que o monitor era preto e muito grande, não encontrei imagens na Internet.
@@ -114,6 +116,14 @@ Fiz um curso de informática básica na [Escola Universo Informática](https://w
 
 Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amiga [Maysa Alves](https://www.linkedin.com/in/maysaalves) me levaram em uma escola que possuía um laboratório de informática top de linha, elas foram digitar um trabalho no Word e estavam com um disquete.
 
+A Éula e a Maysa:
+
+<img src="./images/eula-e-maysa/eula-e-maysa.jpg" style="width:300px;"/>
+
+Como é um disquete:
+
+<img src="./images/eula-e-maysa/disquete.png" style="width:300px;"/>
+
 💡[Word](https://pt.wikipedia.org/wiki/Microsoft_Word)
 
 💡[Disquete](https://pt.wikipedia.org/wiki/Disquete)
@@ -121,6 +131,14 @@ Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amig
 ### Trabalho com restauração e montagens de fotos com Photoshop
 
 Trabalhei com meu pai onde eu fazia restaurações e montagens de fotos, aprendi lendo os tutoriais do [Fabio Lody](https://www.linkedin.com/in/fabiolody/) que na época trabalhava no [iMasters](https://imasters.com.br/).
+
+Adobe Photoshop PS3:
+
+<img src="./images/photoshop/photoshop.gif" style="width:300px;"/>
+
+Fabio Lody:
+
+<img src="./images/photoshop/fabio-lody.png" style="width:300px;"/>
 
 💡[Photoshop](https://pt.wikipedia.org/wiki/Adobe_Photoshop)
 
