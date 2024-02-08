@@ -64,9 +64,11 @@ Escolhi morar em Blumenau pelas oportunidades na área de Tecnologia, pela quali
 
 #### Simone Mendes (tia)
 
-Comecei a ler, a escrever e a fazer cálculos matemáticos com quatro anos de idade. 
+Comecei a ler, a escrever e a fazer cálculos matemáticos com quatro anos de idade.
 
 Minha tia Simone começou a me apresentar celulares no ano de 2000, ela trabalhava muito para conseguí-los, assim comecei meu fascínio por softwares, em celulares.
+
+Eu gostava de configurá-los, desconfigurá-los, jogar, escutar toques, eu apenas não alterava o idioma, e, assim, começou meu fascínio por sistemas, eu ficava refletindo como aquilo funcionava.
 
 Ela me apresentou celulares até o ano de 2010, depois disso minha mãe conseguiu comprar meu primeiro celular.
 
@@ -79,6 +81,7 @@ Primeiro celular da tia Simone:
 <img src="./images/celulares/nokia.png" style="width:300px;"/>
 
 Outro celular dela:
+
 <img src="./images/celulares/motorola.png" style="width:300px;"/>
 
 💡[Smartphone](https://pt.m.wikipedia.org/wiki/Smartphone)
@@ -89,11 +92,23 @@ Outro celular dela:
 
 Ele me levou para passar um dia no trabalho dele onde exercia o papel de almoxarife, basicamente joguei Pinball, Paciência e fiz alguns desenhos no Paint.
 
+Jogo 3d Pinball Space Cadet:
+<img src="./images/garagem/pinball.png" style="width:300px;"/>
+
+Jogo Paciência:
+<img src="./images/garagem/paciencia.jpg" style="width:300px;"/>
+
+Lembro que o monitor era preto e muito grande, não encontrei imagens na Internet.
+
 💡[Computador](https://pt.m.wikipedia.org/wiki/Computador)
 
 #### Escola de informática Universo
 
-Fiz um curso de informática básica na [Escola Universo Informática](https://www.facebook.com/universoinformatica.will) localizada em Benfica, esta escola é dos meus tios Will e Edilene.
+Fiz um curso de informática básica na [Escola Universo Informática](https://www.universoinfor.com.br/universoinfor/fale-conosco) localizada em Benfica, esta escola é dos meus tios Will e Edilene.
+
+<img src="./images/escola-universo/escola-universo.jpg" style="width:300px;"/>
+
+<img src="./images/escola-universo/escola-universo-logo.jpg" style="width:300px;"/>
 
 💡[Informática](https://pt.wikipedia.org/wiki/Inform%C3%A1tica)
 
