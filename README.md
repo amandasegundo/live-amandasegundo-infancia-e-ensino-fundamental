@@ -159,7 +159,20 @@ Fiz um curso de informática no [CRAS do Murinin](https://cras.br.com/cras-murin
 💡[Planilha](https://pt.wikipedia.org/wiki/Planilha_eletr%C3%B4nica)
 
 ## Oitava série
+
+### Escola Software Cursos Profissionais
+
 Estudei em uma escola de informática no município de Marituba que se chamava Software Cursos Profissionais, em seguida me tornei uma professora estagiária por 3 meses dando aulas de informática básica e avançada.
+
+#### [Haiany Leal](https://www.linkedin.com/in/haiany-leal-841800143)
+
+Na escola havia a professora Haiany que, além de dar aulas, fazia a manutenção de todos os computadores. Eu me inspirava muito nela.
+
+A Haiany atualmente é Engenheira Civil:
+
+<img src="./images/marituba/haiany.png" style="width:300px;"/>
+
+O Menino Deus, um cartão postal da cidade de Marituba:
 
 <img src="./images/marituba/marituba-menino-deus.jpg" style="width:300px;"/>
 
