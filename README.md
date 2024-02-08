@@ -58,11 +58,9 @@ Meu papai [Elley Segundo](https://www.linkedin.com/in/elleysegundo/) me ensinou 
 
 Escolhi morar em Blumenau pelas oportunidades na área de Tecnologia, pela qualidade de vida, pela segurança e por admirar a cultura alemã.
 
-## Infância
+## Primeiro contato com tecnologia e amor por softwares
 
-### Primeiro contato com tecnologia e amor por softwares
-
-#### Simone Mendes (tia)
+### Simone Mendes (tia)
 
 Comecei a ler, a escrever e a fazer cálculos matemáticos com quatro anos de idade.
 
@@ -86,9 +84,9 @@ Outro celular dela:
 
 💡[Smartphone](https://pt.m.wikipedia.org/wiki/Smartphone)
 
-### Primeiros contatos com computadores
+## Primeiros contatos com computadores
 
-#### Garagem de ônibus onde o papai trabalhava
+### Garagem de ônibus onde o papai trabalhava
 
 Ele me levou para passar um dia no trabalho dele onde exercia o papel de almoxarife, basicamente joguei Pinball, Paciência e fiz alguns desenhos no Paint.
 
@@ -102,7 +100,7 @@ Lembro que o monitor era preto e muito grande, não encontrei imagens na Interne
 
 💡[Computador](https://pt.m.wikipedia.org/wiki/Computador)
 
-#### Escola de informática Universo
+### Escola de informática Universo
 
 Fiz um curso de informática básica na [Escola Universo Informática](https://www.universoinfor.com.br/universoinfor/fale-conosco) localizada em Benfica, esta escola é dos meus tios Will e Edilene.
 
@@ -112,7 +110,7 @@ Fiz um curso de informática básica na [Escola Universo Informática](https://w
 
 💡[Informática](https://pt.wikipedia.org/wiki/Inform%C3%A1tica)
 
-#### Laboratório de informática top de linha em uma escola em Benfica
+### Laboratório de informática top de linha em uma escola em Benfica
 
 Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amiga [Maysa Alves](https://www.linkedin.com/in/maysaalves) me levaram em uma escola que possuía um laboratório de informática top de linha, elas foram digitar um trabalho no Word e estavam com um disquete.
 
@@ -120,36 +118,36 @@ Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amig
 
 💡[Disquete](https://pt.wikipedia.org/wiki/Disquete)
 
-#### Trabalho com restauração e montagens de fotos com Photoshop
+### Trabalho com restauração e montagens de fotos com Photoshop
 
 Trabalhei com meu pai onde eu fazia restaurações e montagens de fotos, aprendi lendo os tutoriais do [Fabio Lody](https://www.linkedin.com/in/fabiolody/) que na época trabalhava no [iMasters](https://imasters.com.br/).
 
 💡[Photoshop](https://pt.wikipedia.org/wiki/Adobe_Photoshop)
 
-#### CRAS Murinin
+### CRAS Murinin
 
 Fiz um curso de informática no [CRAS do Murinin](https://www.facebook.com/cras.murinin.1), lá eu pude desenvolver meus conhecimentos em planilhas.
 
 💡[Planilha](https://pt.wikipedia.org/wiki/Planilha_eletr%C3%B4nica)
 
-### Oitava série
+## Oitava série
 Estudei em uma escola de informática no município de Marituba que se chamava Software Cursos Profissionais, em seguida me tornei uma professora estagiária por 3 meses.
 
 💡[Município de Marituba](https://pt.wikipedia.org/wiki/Marituba)
 
-#### Amigas nerds
+### Amigas nerds
 
-##### [Débora Araújo](https://www.instagram.com/psico_deboraaraujo/)
+#### [Débora Araújo](https://www.instagram.com/psico_deboraaraujo/)
 
 Hoje a Débora é Pedagoga, Psicopedagoga, Psicoterapeuta e Acadêmica de Neuropsicopedagogia.
 
 💡 Conheça o trabalho da Débora neste [podcast](https://www.youtube.com/live/stgVmm4wsxE?si=OZkkqKWhwyNiJwGA).
 
-##### [Bianca Carvalho](https://www.linkedin.com/in/bianca-carvalho-b45593204/)
+#### [Bianca Carvalho](https://www.linkedin.com/in/bianca-carvalho-b45593204/)
 
 💡 [Nerd](https://pt.m.wikipedia.org/wiki/Nerd)
 
-### Gostou da Live?
+## Gostou da Live?
 
 ☕️ Compre um café para mim:
 
