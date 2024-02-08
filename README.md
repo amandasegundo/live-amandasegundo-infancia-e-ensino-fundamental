@@ -6,6 +6,8 @@
 
 <img src="./images/eu/amanda.jpeg" style="width:300px;"/>
 
+💡[Software](https://pt.wikipedia.org/wiki/Software)
+
 ## Informações básicas
 
 - **Nome**: Amanda Segundo
@@ -36,7 +38,6 @@ else
     Console.WriteLine($"O ano de {ano} não é um ano Bissexto.");
 }
 ```
-
 💡[Ano Bissexto](https://pt.wikipedia.org/wiki/Ano_bissexto)
 
 ## Origem
