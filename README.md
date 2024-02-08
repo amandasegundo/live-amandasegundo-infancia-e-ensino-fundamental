@@ -4,6 +4,8 @@
 
 *Amanda Segundo*
 
+<img src="./images/eu/amanda.jpeg" style="width:300px;"/>
+
 ## Informações básicas
 
 - **Nome**: Amanda Segundo
@@ -17,9 +19,25 @@
 - **Trechos de Código**: Fundadora e Administradora
 - **Data da fundação da Trechos de Código**: 11 de agosto de 2019
 
-💡[Ano Bissexto](https://pt.wikipedia.org/wiki/Ano_bissexto)
+### Algoritmo do ano bissexto
 
-<img src="./images/eu/amanda.jpeg" style="width:300px;"/>
+#### Linguagem C#
+
+```cs
+string input = Console.ReadLine();
+int ano = int.Parse(input); 
+
+if ((ano % 400 == 0) || ((ano % 4 == 0) && (ano % 100 != 0)))
+{
+    Console.WriteLine($"O ano de {ano} é um ano Bissexto.");
+}
+else
+{
+    Console.WriteLine($"O ano de {ano} não é um ano Bissexto.");
+}
+```
+
+💡[Ano Bissexto](https://pt.wikipedia.org/wiki/Ano_bissexto)
 
 ## Origem
 
