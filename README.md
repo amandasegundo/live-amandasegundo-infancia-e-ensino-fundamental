@@ -1,6 +1,6 @@
-# História e carreia: Amanda Segundo
+# Infância e ensino fundamental: Amanda Segundo
 
-*"Os softwares me escolheram quando eu era apenas uma criança."*
+*"Talvez os softwares me escolheram quando eu era apenas uma criança."*
 
 *Amanda Segundo*
 
@@ -19,7 +19,7 @@
 
 💡[Ano Bissexto](https://pt.wikipedia.org/wiki/Ano_bissexto)
 
-<img src="./images/eu/amanda.jpeg"/>
+<img src="./images/eu/amanda.jpeg" style="width:300px;"/>
 
 ## Origem
 
@@ -27,7 +27,7 @@
 
 Minha origem é de uma família pobre, nunca passei fome, mas, sempre tive o mínimo de conforto. Algumas vezes melhoramos nossas condições de vida e outras vezes decaímos, enquanto morávamos no Pará.
 
-<img src="./images/familia/familia.jpeg"/>
+<img src="./images/familia/familia.jpeg" style="width:300px;"/>
 
 Minha mamãe Jane Segundo me ensinou a ser amorosa, sociável e sempre a acreditar em mim.
 Meu papai [Elley Segundo](https://www.linkedin.com/in/elleysegundo/) me ensinou a ser estudiosa e persistente.
@@ -36,7 +36,7 @@ Meu papai [Elley Segundo](https://www.linkedin.com/in/elleysegundo/) me ensinou 
 
 [Região Sul](https://pt.m.wikipedia.org/wiki/Regi%C3%A3o_Sul_do_Brasil) > [Santa Catarina](https://pt.m.wikipedia.org/wiki/Santa_Catarina) > [Blumenau](https://pt.m.wikipedia.org/wiki/Blumenau)
 
-<img src="./images/eu/amanda-blumenau.png"/>
+<img src="./images/eu/amanda-blumenau.png" style="width:300px;"/>
 
 Escolhi morar em Blumenau pelas oportunidades na área de Tecnologia, pela qualidade de vida, pela segurança e por admirar a cultura alemã.
 
@@ -52,16 +52,16 @@ Minha tia Simone começou a me apresentar celulares no ano de 2000, ela trabalha
 
 Ela me apresentou celulares até o ano de 2010, depois disso minha mãe conseguiu comprar meu primeiro celular.
 
-<img src="./images/familia/tia-simone.png"/>
+<img src="./images/familia/tia-simone.png" style="width:300px;"/>
 
 Hoje a minha tia é blogueira no [TikTok](https://www.tiktok.com/@simone89mendes87).
 
 Primeiro celular da tia Simone:
 
-<img src="./images/celulares/nokia.png"/>
+<img src="./images/celulares/nokia.png" style="width:300px;"/>
 
 Outro celular dela:
-<img src="./images/celulares/motorola.png"/>
+<img src="./images/celulares/motorola.png" style="width:300px;"/>
 
 💡[Smartphone](https://pt.m.wikipedia.org/wiki/Smartphone)
 
@@ -115,3 +115,9 @@ Hoje a Débora é Pedagoga, Psicopedagoga, Psicoterapeuta e Acadêmica de Neurop
 ##### [Bianca Carvalho](https://www.linkedin.com/in/bianca-carvalho-b45593204/)
 
 💡 [Nerd](https://pt.m.wikipedia.org/wiki/Nerd)
+
+### Gostou da Live?
+
+☕️ Compre um café para mim:
+
+PIX: d29ce6e0-7c0d-4fc2-ab12-3f8e1815258a
