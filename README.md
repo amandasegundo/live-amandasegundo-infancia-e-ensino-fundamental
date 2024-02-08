@@ -132,7 +132,7 @@ Como é um disquete:
 
 Trabalhei com meu pai onde eu fazia restaurações e montagens de fotos, aprendi lendo os tutoriais do [Fabio Lody](https://www.linkedin.com/in/fabiolody/) que na época trabalhava no [iMasters](https://imasters.com.br/).
 
-Adobe Photoshop PS3:
+Adobe Photoshop CS3:
 
 <img src="./images/photoshop/photoshop.gif" style="width:300px;"/>
 
@@ -144,26 +144,35 @@ Fabio Lody:
 
 ### CRAS Murinin
 
-Fiz um curso de informática no [CRAS do Murinin](https://www.facebook.com/cras.murinin.1), lá eu pude desenvolver meus conhecimentos em planilhas.
+Fiz um curso de informática no [CRAS do Murinin](https://cras.br.com/cras-murinin-benevides-pa-endereco-e-atendimento/), lá eu pude desenvolver meus conhecimentos em planilhas.
+
+<img src="./images/cras/cras-logo-pa.png" style="width:300px;"/>
 
 💡[Planilha](https://pt.wikipedia.org/wiki/Planilha_eletr%C3%B4nica)
 
 ## Oitava série
-Estudei em uma escola de informática no município de Marituba que se chamava Software Cursos Profissionais, em seguida me tornei uma professora estagiária por 3 meses.
+Estudei em uma escola de informática no município de Marituba que se chamava Software Cursos Profissionais, em seguida me tornei uma professora estagiária por 3 meses dando aulas de informática básica e avançada.
+
+<img src="./images/marituba/marituba-menino-deus.jpg" style="width:300px;"/>
 
 💡[Município de Marituba](https://pt.wikipedia.org/wiki/Marituba)
 
 ### Amigas nerds
 
+Conheci o conceito "Nerd" na oitava série.
+
+💡 [Nerd](https://pt.m.wikipedia.org/wiki/Nerd)
+
 #### [Débora Araújo](https://www.instagram.com/psico_deboraaraujo/)
 
 Hoje a Débora é Pedagoga, Psicopedagoga, Psicoterapeuta e Acadêmica de Neuropsicopedagogia.
+
+<img src="./images/marituba/debora.jpg" style="width:300px;"/>
 
 💡 Conheça o trabalho da Débora neste [podcast](https://www.youtube.com/live/stgVmm4wsxE?si=OZkkqKWhwyNiJwGA).
 
 #### [Bianca Carvalho](https://www.linkedin.com/in/bianca-carvalho-b45593204/)
 
-💡 [Nerd](https://pt.m.wikipedia.org/wiki/Nerd)
 
 ## Gostou da Live?
 
