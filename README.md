@@ -102,16 +102,6 @@ Lembro que o monitor era preto e muito grande, não encontrei imagens na Interne
 
 💡[Computador](https://pt.m.wikipedia.org/wiki/Computador)
 
-### Escola de informática Universo
-
-Fiz um curso de informática básica na [Escola Universo Informática](https://www.universoinfor.com.br/universoinfor/fale-conosco) localizada em Benfica, esta escola é dos meus tios Will e Edilene.
-
-<img src="./images/escola-universo/escola-universo.jpg" style="width:300px;"/>
-
-<img src="./images/escola-universo/escola-universo-logo.jpg" style="width:300px;"/>
-
-💡[Informática](https://pt.wikipedia.org/wiki/Inform%C3%A1tica)
-
 ### Laboratório de informática top de linha em uma escola em Benfica
 
 Minha prima [Éula Nóbrega](https://lattes.cnpq.br/8802195980189053) e sua amiga [Maysa Alves](https://www.linkedin.com/in/maysaalves) me levaram em uma escola que possuía um laboratório de informática top de linha, elas foram digitar um trabalho no Word e estavam com um disquete.
@@ -135,6 +125,16 @@ A Maysa é formada em Engenharia de Computação e atua como Engenheira de Softw
 💡[Word](https://pt.wikipedia.org/wiki/Microsoft_Word)
 
 💡[Disquete](https://pt.wikipedia.org/wiki/Disquete)
+
+### Escola de informática Universo
+
+Fiz um curso de informática básica na [Escola Universo Informática](https://www.universoinfor.com.br/universoinfor/fale-conosco) localizada em Benfica, esta escola é dos meus tios Will e Edilene.
+
+<img src="./images/escola-universo/escola-universo.jpg" style="width:300px;"/>
+
+<img src="./images/escola-universo/escola-universo-logo.jpg" style="width:300px;"/>
+
+💡[Informática](https://pt.wikipedia.org/wiki/Inform%C3%A1tica)
 
 ### Trabalho com restauração e montagens de fotos com Photoshop
 
