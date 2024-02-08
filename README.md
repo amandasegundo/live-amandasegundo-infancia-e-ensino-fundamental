@@ -21,6 +21,8 @@
 - **Trechos de Código**: Fundadora e Administradora
 - **Data da fundação da Trechos de Código**: 11 de agosto de 2019
 
+💡[Engenharia de software](https://pt.wikipedia.org/wiki/Engenharia_de_software)
+
 ### Algoritmo do ano bissexto
 
 #### Linguagem C#
