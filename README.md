@@ -181,6 +181,9 @@ Hoje a Débora é Pedagoga, Psicopedagoga, Psicoterapeuta e Acadêmica de Neurop
 
 #### [Bianca Carvalho](https://www.linkedin.com/in/bianca-carvalho-b45593204/)
 
+A Bianca é formada em Administração e formanda em Engenharia Ambiental, participou de vários projetos e foi Diretora na Semana Acadêmica de Ambiental da Universidade Tecnológica Federal do Paraná nos anos de 2022 e 2023.
+
+<img src="./images/marituba/bianca.jpg" style="width:300px;"/>
 
 ## Gostou da Live?
 
